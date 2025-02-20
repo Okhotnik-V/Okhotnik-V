@@ -12,7 +12,7 @@
 🔹 Distributed Systems & Databases: Experience with MongoDB, Redis, RabbitMQ, MySQL, PostgreSQL, and other data storage solutions. Designing scalable architectures for high-load services, ensuring high availability and data consistency.
 
 # 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 <!-- # 
 <pre> 
 📊 GitHub Stats: ![](https://github-readme-stats.vercel.app/api?username=Okhotnik-V&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/> ![](https://github-readme-streak-stats.herokuapp.com/?user=Okhotnik-V&theme=dark&hide_border=false)<br/> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Okhotnik-V&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
