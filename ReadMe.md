@@ -1,5 +1,5 @@
 # 💫 About Me:
-### 👋 About Me  <br><br>🚀 **Software Engineer | Web3 & AI Expert | Blockchain & Highload Systems Architect**  <br><br>🔹 **Backend:** Java Spring (Boot, Reactive, WebFlux, R2DBC), MongoDB (Reactive), MySQL, Redis, RabbitMQ  <br>🔹 **Web3 & Blockchain:** Solidity, Ethereum, BSC, Polygon, Solana, NFT, CryptoAPI, dApps  <br>🔹 **AI & ML:** DJL, Hugging Face, local & API-based AI models  <br>🔹 **DevOps:** Docker, Windows Server, MongoDB replication, high-load system optimization  <br><br>🔧 **What I do:**  <br>✔ Develop scalable backend systems with reactive architecture  <br>✔ Build Web3 applications and NFT games  <br>✔ Configure AI models for data processing  <br>✔ Optimize database performance and high-load services  <br>
+### 👋 About Me  <br><br>🚀 **Software Engineer | Web3 & AI Expert | Blockchain & Highload Systems Architect**  <br><br>
 
 
 # 💻 Tech Stack:
