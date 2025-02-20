@@ -1,5 +1,5 @@
 # 💫 About Me:
-### 👋 About Me  <br><br>🚀 **Software Engineer | Web3 & AI Expert | Blockchain & Highload Systems Architect**  <br><br>
+### <br><br>🚀 **Software Engineer | Web3 & AI Expert | Blockchain & Highload Systems Architect**  <br><br>
 
 
 # 💻 Tech Stack:
