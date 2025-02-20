@@ -1,6 +1,15 @@
 # 💫 About Me:
 ### 🚀 **Software Engineer | Web3 & AI Expert | Blockchain & Highload Systems Architect**  <br><br>
 
+🔹 Backend & Highload Systems: Specializing in the development of scalable, high-load distributed systems using Java, Spring, and Reactor. Implementing asynchronous data processing, optimizing service performance, and working with microservices architecture.
+
+🔹 Web3 & Blockchain: Experience with Ethereum, BSC, Solana, and other blockchains. Developing smart contracts in Solidity, integrating Web3 solutions, and optimizing transactions in decentralized applications.
+
+🔹 AI & Data Processing: Proficient in deep learning technologies, working with DJL and other ML tools. Analyzing and processing large datasets, implementing AI-driven automation, and advanced analytics solutions.
+
+🔹 Cloud & DevOps: Containerization, orchestration, and automation of CI/CD processes using Docker and Kubernetes. Optimizing infrastructure and implementing efficient continuous integration and deployment strategies.
+
+🔹 Distributed Systems & Databases: Experience with MongoDB, Redis, RabbitMQ, MySQL, PostgreSQL, and other data storage solutions. Designing scalable architectures for high-load services, ensuring high availability and data consistency.
 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
